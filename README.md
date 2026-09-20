@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I am Bagas Dwi
+# Hi, I am Bagas Dwi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Mobile+Developer+%F0%9F%93%B1;Full-Stack+Developer+%F0%9F%9A%80;Web+Developer+%F0%9F%8C%90;Game+Developer+%F0%9F%8E%AE;IoT+%26+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Mobile+Developer;Full-Stack+Developer;Web+Developer;Game+Developer;IoT+%26+AI+Enthusiast" alt="Typing SVG" />
 
 <p>
   <a href="https://bagasdwi-portfolio.vercel.app" target="_blank">
@@ -85,36 +85,6 @@ const bagas = {
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevonteDan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevonteDan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevonteDan&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6"/>
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Sewa Kendaraan | Vehicle rental platform with real-time booking and QRIS payment | Laravel, Vue.js, Inertia.js, Tailwind, MySQL |
-| Bounty Stock System | Modern WMS with ledger log and e-commerce webhook simulation | Next.js, React, TypeScript, PostgreSQL |
-| OAMP Platform | Robotics-based cognitive and motor assessment with AI | Go, React, PostgreSQL, OpenAI API |
-| Cosmospace | Cross-platform space app with real-time NASA API data | Flutter, Dart |
-| Mark the Dark | 3D horror maze game built for COMPFEST 18 | Godot Engine, GDScript |
-| Kevman Escape | Indie side-scrolling escape game (Team Project) | Godot Engine, GDScript |
-
-</div>
 
 ---
 
