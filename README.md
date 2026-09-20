@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# Hi, I am Bagas Dwi
+# Hi, I am Bagas Dwi Firmansyah
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Mobile+Developer;Full-Stack+Developer;Web+Developer;Game+Developer;IoT+%26+AI+Enthusiast" alt="Typing SVG" />
 
