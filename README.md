@@ -25,23 +25,6 @@
 
 ---
 
-## About Me
-
-```typescript
-const bagas = {
-  name:         "Mochamad Bagas Dwi Firmansyah",
-  alias:        "BagasDwi",
-  location:     "Surabaya, Indonesia",
-  education:    "Computer Engineering @ PENS (Semester 5)",
-  roles:        ["Mobile Dev", "Full-Stack Dev", "Web Dev", "Game Dev"],
-  passion:      ["Web Apps", "AI", "IoT", "Game Development"],
-  currentFocus: "Building powerful, aesthetic, and high-performance apps",
-  funFact:      "I make the UI so good, users forget to close the tab",
-};
-```
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -91,11 +74,7 @@ const bagas = {
 ## Contribution
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="acrade-contributions.svg" alt="Arcade Contributions"/>
 </div>
 
 ---
