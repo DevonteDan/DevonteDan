@@ -88,18 +88,14 @@ const bagas = {
 
 ---
 
-## GitHub Trophies
+## Contribution
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevonteDan&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevonteDan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=F59E0B"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/DevonteDan/DevonteDan/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
